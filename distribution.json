@@ -400,16 +400,6 @@
           }
         },
         {
-          "id": "com.flansmod:flansmod:5.10.0@jar",
-          "name": "Flan's Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2259973,
-            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/forgemods/required/Flan's+Mod-1.12.2-5.10.0.jar",
-            "MD5": "0cc53ac00145d96448d5d20eae4e2ed6"
-          }
-        },
-        {
           "id": "generated.forgemod:ghostride_ghost_corporation_1.0.1:0.0.0@jar",
           "name": "Ghostride_Ghost_Corporation_1.0.1",
           "type": "ForgeMod",
