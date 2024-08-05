@@ -266,6 +266,46 @@
           ]
         },
         {
+          "id": "alcara-v1.jar",
+          "name": "alcara-v1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3733868,
+            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/files/Flan/alcara-v1.jar",
+            "path": "Flan/alcara-v1.jar"
+          }
+        },
+        {
+          "id": "Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
+          "name": "Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 30240221,
+            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/files/Flan/Modern%20Warfare-Content%20Pack-1.12.2-5.8.2.jar",
+            "path": "Flan/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
+          }
+        },
+        {
+          "id": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
+          "name": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 237132,
+            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/files/Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2%20(1).jar",
+            "path": "Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar"
+          }
+        },
+        {
+          "id": "VellEagle Super Cars Pack.jar",
+          "name": "VellEagle Super Cars Pack.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2520688,
+            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/files/Flan/VellEagle%20Super%20Cars%20Pack.jar",
+            "path": "Flan/VellEagle Super Cars Pack.jar"
+          }
+        },
+        {
           "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
@@ -517,46 +557,6 @@
             "size": 12673663,
             "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/forgemods/required/zawa-1.12.2-2.1.3.jar",
             "MD5": "8f993a87fd5ae86e48dd50aeba3aff47"
-          }
-        },
-        {
-          "id": "alcara-v1.jar",
-          "name": "alcara-v1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 3733868,
-            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/files/Flan/alcara-v1.jar",
-            "path": "Flan/alcara-v1.jar"
-          }
-        },
-        {
-          "id": "Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
-          "name": "Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 30240221,
-            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/files/Flan/Modern%20Warfare-Content%20Pack-1.12.2-5.8.2.jar",
-            "path": "Flan/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
-          }
-        },
-        {
-          "id": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
-          "name": "Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar",
-          "type": "File",
-          "artifact": {
-            "size": 237132,
-            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/files/Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2%20(1).jar",
-            "path": "Flan/Simple+Parts-Content+Pack-1.12.2-5.7.2 (1).jar"
-          }
-        },
-        {
-          "id": "VellEagle Super Cars Pack.jar",
-          "name": "VellEagle Super Cars Pack.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2520688,
-            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/files/Flan/VellEagle%20Super%20Cars%20Pack.jar",
-            "path": "Flan/VellEagle Super Cars Pack.jar"
           }
         }
       ]
