@@ -281,8 +281,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4406051,
-            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/forgemods/required/BeeMod-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/forgemods/optionaloff/BeeMod-1.0-SNAPSHOT.jar",
             "MD5": "84acb960c3596ee453658ccadef14a10"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
