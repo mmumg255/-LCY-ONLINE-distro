@@ -370,16 +370,6 @@
             }
           },
           {
-            "id": "generated.forgemod:last_for_new(1.12.2)cutversion:0.0.0@jar",
-            "name": "Last_for_New(1.12.2)cutversion",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 145546940,
-              "url": "https://cdn.modrinth.com/data/TYrKkSaT/versions/epyREPrW/Last_for_New%281.12.2%29cutversion.jar",
-              "MD5": "c8c1deba984052a1b6ac028b222eb058"
-            }
-          },
-          {
             "id": "mcheli:mcheli:1.1.0@jar",
             "name": "MC Helicopter",
             "type": "ForgeMod",
@@ -457,16 +447,6 @@
               "size": 2139906,
               "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/forgemods/required/vehicle-0.44.1-mc1.12.2.jar",
               "MD5": "276818770667c1bff569d92287c53d95"
-            }
-          },
-          {
-            "id": "net.gliby.voicechat:imvoice:0.7.0@jar",
-            "name": "§aImmersive Voice",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 445000,
-              "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/forgemods/required/VoiceChat-1.12.2-0.7.0.jar",
-              "MD5": "d8bb047f700fca6ac08a88f9abb45d82"
             }
           },
           {
