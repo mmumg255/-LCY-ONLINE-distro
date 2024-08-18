@@ -12,7 +12,7 @@
       "name": "LCY ONLINE (Minecraft 1.12.2)",
       "description": "LCY ONLINE Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://github.com/mmumg255/-LCY-ONLINE-distro/raw/main/serverimg.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "LCYO.kro.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
