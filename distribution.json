@@ -360,16 +360,6 @@
             }
           },
           {
-            "id": "mcinterface1122:mts:22.15.0@jar",
-            "name": "Immersive Vehicles (formerly MTS)",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 5985435,
-              "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/forgemods/required/Immersive%20Vehicles-1.12.2-22.15.0.jar",
-              "MD5": "0314b32778441afdf4dfab4f51180049"
-            }
-          },
-          {
             "id": "mcheli:mcheli:1.1.0@jar",
             "name": "MC Helicopter",
             "type": "ForgeMod",
@@ -407,6 +397,16 @@
               "size": 27545802,
               "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/forgemods/required/mw_2.0-0.4.4.6_mc1.12.2.jar",
               "MD5": "69cbe3bd707a5284b1af20ebf0a9b0b9"
+            }
+          },          
+          {
+            "id": "net.gliby.voicechat:imvoice:0.7.0@jar",
+            "name": "§aImmersive Voice",
+            "type": "ForgeMod",
+            "artifact": {
+              "size": 445000,
+              "url": "https://raw.githubusercontent.com/mmumg255/-LCY-ONLINE-distro/main/servers/LCYONLINE-1.12.2/forgemods/required/VoiceChat-1.12.2-0.7.0.jar",
+              "MD5": "d8bb047f700fca6ac08a88f9abb45d82"
             }
           },
           {
